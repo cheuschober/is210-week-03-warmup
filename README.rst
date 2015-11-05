@@ -6,7 +6,7 @@ Warm-Up Tasks
 *************
 
 :College: CUNY School of Professional Studies
-:Course-Name: Software Application Programming I
+:Course-Name: Software Application Programming II
 :Course-Code: IS 210
 :Lesson: 03
 :Points: 15
